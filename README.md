@@ -1,1 +1,2 @@
 # DataScience-Shipment_Cost_Prediction-Freight_Management
+The purpose of the project is to provide a method/tool that can support the transportation cost variances analysis and provide the best shipment cost to the customer of “Quick Freight” company. This method or tool will help to predict future shipment costs and also will help to identify the ideal mix of each cost element needed to hit the targeted costs/profit. 
